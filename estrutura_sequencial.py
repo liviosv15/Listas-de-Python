@@ -1,0 +1,1 @@
+print('Questões da primeira lista, Estrutura Sequencial.')
